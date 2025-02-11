@@ -49,4 +49,4 @@ docker-compose down --rmi local
 
 Postman collection link:
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/34376513-261257ef-2adc-4811-bd15-53a14f18ffab?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D34376513-261257ef-2adc-4811-bd15-53a14f18ffab%26entityType%3Dcollection%26workspaceId%3Dbd0d64bc-f498-4e4f-84f6-537e25d829f1)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/34376513-261257ef-2adc-4811-bd15-53a14f18ffab?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D34376513-261257ef-2adc-4811-bd15-53a14f18ffab%26entityType%3Dcollection%26workspaceId%3Dbd0d64bc-f498-4e4f-84f6-537e25d829f1)
