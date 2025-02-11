@@ -27,10 +27,10 @@ Clean architecture is a software design that helps maintain an organized codebas
 
 #### Clone project from Github
 
-###### https:
+###### 
 
 ```sh
-git clone github.com/Kontentski/develops-today-task
+git clone https://github.com/Kontentski/develops-today-task.git
 ```
 
 To run all necessary services, ensure that Docker is started, then execute the following command in the root folder:
